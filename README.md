@@ -1,4 +1,4 @@
-### Exercicio do curso de C# completo - Programação orientada a objetos + projetos - Professor Nelio Alves (Udemy)
+### Exercicio para praticar Enums e Compositions - Curso de C# completo - Programação orientada a objetos + projetos - Professor Nelio Alves (Udemy) 
 
 Enunciado:
 
